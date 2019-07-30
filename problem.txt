@@ -1,0 +1,24 @@
+Answer each question with the proper commands from the command line:
+
+#1  How do you know what directory you are currently in? (What command do you use?)
+
+
+#2  How do you remove a file?  Whats different about removing a folder?
+
+
+#3  What command(s) can I use to make a new file?
+
+
+#4  Given the following structure, in one command, how can I go to the "Content" folder from "Projects"
+
+Devmountain
+    -> Projects [ YOU ARE HERE ]
+        -> profile.js
+        -> lecture.txt
+    -> Courses
+        -> Content
+            -> Readme.md
+        -> Grades
+            -> Grades.txt
+
+#5 Are you ready for the first day of javascript?!
