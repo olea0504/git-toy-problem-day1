@@ -15,7 +15,7 @@ touch <fileName>
 
 #4  Given the following structure, in one command, how can I go to the "Content" folder from "Projects"
 
-cd ../../Projects
+cd ../Courses/Content
 
 Devmountain
     -> Projects [ YOU ARE HERE ]
